@@ -45,6 +45,9 @@ gem "bootsnap", require: false
 # html templating engine https://github.com/haml/haml-rails#haml-rails
 gem "haml-rails", "~> 2.0"
 
+# use devise as authentication management https://github.com/heartcombo/devise#getting-started
+gem 'devise'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
